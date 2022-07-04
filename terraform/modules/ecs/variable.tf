@@ -1,0 +1,11 @@
+variable "name" {}
+variable "vpc_id" {}
+variable "vpc_cidr_block" {}
+variable "subnet_ids" {}
+variable "container_port" {}
+variable "container_definitions_json_filepath" {}
+variable "lb_target_group_arn" {}
+variable "cpu" {}
+variable "memory" {}
+variable "service_desired_count" {}
+variable "container_name" {}

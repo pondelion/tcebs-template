@@ -1,0 +1,14 @@
+variable "container_definitions_json_filepath" {}
+variable "codepipeline_bucket_name" {}
+variable "codepipeline_github_repo_name" {}
+variable "codepipeline_github_branch_name" {}
+variable "codepipeline_secret" {}
+variable "alb_root_domain_name" {}
+variable "alb_subdomain_name" {}
+variable "ecr_repository_name" {}
+variable "ecs_container_port" {}
+variable "ecs_cpu" {}
+variable "ecs_memory" {}
+variable "ecs_service_desired_count" {}
+variable "ecs_container_name" {}
+variable "GITHUB_TOKEN" {}

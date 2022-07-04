@@ -1,0 +1,6 @@
+[
+  {
+    "name": "web_backend_container",
+    "image": "IMAGE URL WILL BE REPLACED AFTER DEPLOY"
+  }
+]
